@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "639655689035",
+    "firebase_url": "https://music2player-46eb6.firebaseio.com",
+    "project_id": "music2player-46eb6",
+    "storage_bucket": "music2player-46eb6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639655689035:android:10d4814555ec07166c86ce",
+        "android_client_info": {
+          "package_name": "com.example.music2player"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "639655689035-5uotb708pro4cg4qbf106hkub14mbovc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-QiC5fCGfBU0CfLuCjr-0qAn-NNQ7pp0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "639655689035-5uotb708pro4cg4qbf106hkub14mbovc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
